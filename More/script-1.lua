@@ -1,7 +1,3 @@
--- ============================================================
--- Bbslade Mobile (不管有沒有選都強制發送版)
--- ============================================================
-
 local HttpService = game:GetService("HttpService")
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 
